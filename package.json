@@ -1,0 +1,24 @@
+{
+  "name": "matatu-sun-side-advisor",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@vitejs/plugin-react": "^5.0.2",
+    "gsap": "^3.13.0",
+    "leaflet": "^1.9.4",
+    "lucide-react": "^0.468.0",
+    "react": "^19.1.1",
+    "react-dom": "^19.1.1",
+    "suncalc": "^1.9.0"
+  },
+  "devDependencies": {
+    "vite": "^7.1.5"
+  },
+  "packageManager": "pnpm@10.15.1"
+}
